@@ -1,0 +1,3 @@
+Given an array of 10000 integers quick sort will be the best algorithm to sort the elements.
+Quick sort uses the divide and conquer method to sort the elemets which take less time to sort
+the dataset by recursively partitioning the array into smaller fragments and then merging them .
